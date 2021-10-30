@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858877571993",
+    "project_id": "flutter-mmp",
+    "storage_bucket": "flutter-mmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858877571993:android:bea0d03bcf5f9fdc481908",
+        "android_client_info": {
+          "package_name": "io.instamobile.flutter.login.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858877571993-l6nbsqmjoi4jiuqgju2g4nond6nor9li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5GjuKyNANRqkPknsaBKEIeM-H3E7c4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858877571993-l6nbsqmjoi4jiuqgju2g4nond6nor9li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
